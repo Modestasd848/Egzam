@@ -7,7 +7,7 @@ export const StyledTr = styled.tr`
 
 export const StyledButton = styled.button`
   padding: 10px 15px;
-  margin: 5px;
+  margin: 6px;
   border: none;
   border-radius: 5px;
   font-weight: bold;
@@ -33,7 +33,7 @@ export const StyledButton = styled.button`
 export const StyledSection = styled.section`
   margin: 1% auto;
   text-align: left;
-  width: 69.3%;
+  width: 69%;
   padding: 7px;
 `;
 
@@ -57,7 +57,7 @@ export const StyledTable = styled.table`
   }
   th,
   td {
-    padding: 12px 15px;
+    padding: 12px 14px;
   }
   tbody tr {
     border-bottom: 1px solid #dddddd;
